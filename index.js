@@ -53,3 +53,11 @@ var a, b
 function makeInt(n){
   return parseInt(n, 10);
 }
+
+var a, b
+  a = Math.floor(Math.random() * 1000)
+  b = Math.floor(Math.random() * 1000)
+
+function isNaN(makeInt('sldkjflksjf'){
+  return 'sldkjflksjf';
+}
